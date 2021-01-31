@@ -1,0 +1,12 @@
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.frmAdminDashboard.resources
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.Properties.Resources.resources
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\bin\Debug\Sistema_Vendas.exe.config
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\bin\Debug\Sistema_Vendas.exe
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\bin\Debug\Sistema_Vendas.pdb
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.exe
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.pdb
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.frmUserDashboard.resources
+C:\Users\felip\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.UIform.frmUsers.resources
